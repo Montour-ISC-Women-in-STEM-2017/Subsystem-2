@@ -96,13 +96,22 @@
                     <view key="view" contentMode="scaleToFill" id="0tm-ed-ALd">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="HELP!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G2s-T1-RBM">
+                                <rect key="frame" x="166" y="237" width="47" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
                         <color key="backgroundColor" red="0.64089841599999997" green="0.94242384180000005" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Help" id="IAn-22-LqU"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3qg-eB-5Qe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="750" y="2426"/>
+            <point key="canvasLocation" x="749.60000000000002" y="2425.6371814092954"/>
         </scene>
         <!--Login View Controller-->
         <scene sceneID="pS3-7V-Pyr">
