@@ -17,6 +17,7 @@
 		4231E0F41E42634700551FA6 /* WeatherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4231E0F31E42634700551FA6 /* WeatherViewController.swift */; };
 		4231E0F61E426AB200551FA6 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4231E0F51E426AB200551FA6 /* LoginViewController.swift */; };
 		4231E0F81E426E6100551FA6 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4231E0F71E426E6100551FA6 /* TabBarController.swift */; };
+		42692A9E1E43B0E200D67A3F /* HelpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42692A9D1E43B0E200D67A3F /* HelpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4231E0F31E42634700551FA6 /* WeatherViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherViewController.swift; sourceTree = "<group>"; };
 		4231E0F51E426AB200551FA6 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		4231E0F71E426E6100551FA6 /* TabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		42692A9D1E43B0E200D67A3F /* HelpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HelpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				4231E0E11E42619300551FA6 /* GasReadingsViewController.swift */,
 				4231E0F11E42633D00551FA6 /* ConnectivityViewController.swift */,
 				4231E0F31E42634700551FA6 /* WeatherViewController.swift */,
+				42692A9D1E43B0E200D67A3F /* HelpViewController.swift */,
 				4231E0F71E426E6100551FA6 /* TabBarController.swift */,
 				4231E0E61E42619300551FA6 /* Assets.xcassets */,
 				4231E0E81E42619300551FA6 /* LaunchScreen.storyboard */,
@@ -155,6 +158,7 @@
 				4231E0F61E426AB200551FA6 /* LoginViewController.swift in Sources */,
 				4231E0E21E42619300551FA6 /* GasReadingsViewController.swift in Sources */,
 				4231E0F41E42634700551FA6 /* WeatherViewController.swift in Sources */,
+				42692A9E1E43B0E200D67A3F /* HelpViewController.swift in Sources */,
 				4231E0DE1E42619300551FA6 /* AppDelegate.swift in Sources */,
 				4231E0F81E426E6100551FA6 /* TabBarController.swift in Sources */,
 				4231E0F21E42633D00551FA6 /* ConnectivityViewController.swift in Sources */,
