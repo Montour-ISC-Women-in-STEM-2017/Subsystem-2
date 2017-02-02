@@ -47,7 +47,7 @@ class LoginViewController: UIViewController {
      */
     func showIncorrectCredentialsAlert() {
         //6. Create the pop-up alert -'UIAlertController' is a Class in the Swift language that we can user to display an alert.
-        let alert = UIAlertController(title: "Incorrect username or password", message: "The username or password you entered is incorrect. Please try again.", preferredStyle: .alert)
+        let alert = UIAlertController(title: "Incorrect username or password!", message: "The username or password you entered is incorrect. Please try again.", preferredStyle: .alert)
         
         //7. Add an 'OK' button to the bottom of the alert so the user can dismiss it and try to enter their password again.
         let action = UIAlertAction(title: "OK", style: .cancel, handler: nil)
