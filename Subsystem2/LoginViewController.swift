@@ -28,7 +28,7 @@ class LoginViewController: UIViewController {
     @IBAction func loginPressed(_ sender: Any) {
         
         // 2. If the text in the username text field is equal to "Montour" and the text in the password field is equal to "Password"
-        if usernameField.text == "Montour" && passwordField.text == "Password" {
+        if usernameField.text == "Montour" && passwordField.text == "Passwordd" {
             
             //3. then the rest of our app is shown - preform a 'Segue' which will transition our app from the current page to the page the segue is pointed to (here it's the TabBarController).
             self.performSegue(withIdentifier: tabBarSegueID, sender: self)
