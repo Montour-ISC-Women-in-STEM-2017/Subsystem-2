@@ -16,3 +16,5 @@ class HomeViewController: UIViewController {
 
 }
 
+//  Do not present meter or make gray if status is not connected (if pair now button is not clicked)
+//  "Pair Now" Button takes you to Connectivity page 
